@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://cranky-raman-0db4d6.netlify.com/"
+baseURL = "https://infallible-mccarthy-72ee04.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Ishan Badgainya"
