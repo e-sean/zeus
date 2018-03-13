@@ -1,0 +1,4 @@
+sudo su
+mkdir fun
+cd /fun
+
