@@ -7,7 +7,11 @@ tags:
 metaAlignment: center
 ---
 
-When you run Hugo server it only binds to the localhost of the machine your are running on. Let's say you want to view your current website on multiple device in your network. By visiting your computer's IP address, it should work. Sadly, for me it didn't. So I digged the web looking for possible solutions and found this one. 
+When you run Hugo server it only binds to the localhost of the machine your are running on. Let's say you want to view your current website on multiple device in your network. 
+<!--more-->
+
+
+By visiting your computer's IP address, it should work. Sadly, for me it didn't. So I digged the web looking for possible solutions and found this one. 
 
 THe usual way of running Hugo server is by giving the following command
 
