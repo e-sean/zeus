@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Ishan Badgainya"
 theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-99728351"
 paginate = 7
 canonifyurls = true
 
