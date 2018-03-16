@@ -1,12 +1,24 @@
 ---
 title: Switching from Jekyll+Github to Hugo+Netlify
 date: 2018-03-14
+categories:
+- website
 tags:
  - jekyll
  - hugo
  - github
  - netlify
 metaAlignment: center
+keywords:
+- tech
+- learn
+- linux
+- ubuntu
+- server
+- media
+- technology
+- ishan
+- badgainya
 ---
 
 The only bad habit of mine is that I cannot sit doing nothing. I constantly need something to work on otherwise the grey matter inside my brain will turn to black. 

@@ -1,10 +1,22 @@
 ---
 title: Running Hugo server on multiple devices
 date: 2018-03-14
+categories:
+- linux
 tags:
  - linux
  - hugo
 metaAlignment: center
+keywords:
+- tech
+- learn
+- linux
+- ubuntu
+- server
+- media
+- technology
+- ishan
+- badgainya
 ---
 
 When you run Hugo server it only binds to the localhost of the machine your are running on. Let's say you want to view your current website on multiple device in your network. 
@@ -13,7 +25,7 @@ When you run Hugo server it only binds to the localhost of the machine your are 
 
 By visiting your computer's IP address, it should work. Sadly, for me it didn't. So I digged the web looking for possible solutions and found this one. 
 
-THe usual way of running Hugo server is by giving the following command
+The usual way of running Hugo server is by giving the following command
 
 ```
 hugo server -w

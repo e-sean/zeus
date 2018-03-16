@@ -3,14 +3,24 @@ title: Nextcloud on Ubuntu 16.04
 subtitle: A safe home for all your data
 date: 2017-12-17
 tags: ["linux", "ubuntu", "nextcloud"]
-
-
+categories:
+- linux
 keywords:
  - nextcloud
  - ubuntu
  - linux
 clearReading: true
 metaAlignment: center
+keywords:
+- tech
+- learn
+- linux
+- ubuntu
+- server
+- media
+- technology
+- ishan
+- badgainya
 
 ---
 

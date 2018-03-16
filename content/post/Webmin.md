@@ -4,12 +4,22 @@ subtitle: Manage your server through GUI
 date: 2017-07-18
 tags: ["linux", "ubuntu","webmin"]
 metaAlignment: center
-
+categories:
+- linux
 gallery:
  - /images/Webmin/Screenshot(85).png
  - /images/Webmin/Screenshot(86).png
  - /images/Webmin/Screenshot(87).png
- 
+keywords:
+- tech
+- learn
+- linux
+- ubuntu
+- server
+- media
+- technology
+- ishan
+- badgainya
 ---
 
 <!--toc-->

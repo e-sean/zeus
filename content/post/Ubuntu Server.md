@@ -5,6 +5,18 @@ date: 2017-06-17
 tags: ["linux", "ubuntu"]
 clearReading: true
 metaAlignment: center
+categories:
+- linux
+keywords:
+- tech
+- learn
+- linux
+- ubuntu
+- server
+- media
+- technology
+- ishan
+- badgainya
 ---
 
 <!--toc-->

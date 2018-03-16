@@ -2,6 +2,8 @@
 title: Deluge Torrent Server on Ubuntu 16.04
 subtitle: Download big files without hassle
 date: 2017-08-06
+categories:
+- linux
 tags:
  - linux
  - windows
@@ -9,6 +11,16 @@ tags:
  - torrent
  - ubuntu
 metaAlignment: center
+keywords:
+- tech
+- learn
+- linux
+- ubuntu
+- server
+- media
+- technology
+- ishan
+- badgainya
 ---
 
 <!-- toc -->

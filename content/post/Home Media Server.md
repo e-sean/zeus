@@ -2,6 +2,8 @@
 title: Home Media Server
 subtitle: Something to showoff to your friends!
 date: 2017-06-07
+categories:
+- linux
 tags:
  - linux
  - plex
@@ -9,6 +11,16 @@ tags:
  - nextcloud
  - windows
 metaAlignment: center
+keywords:
+- tech
+- learn
+- linux
+- ubuntu
+- server
+- media
+- technology
+- ishan
+- badgainya
 ---
 
 

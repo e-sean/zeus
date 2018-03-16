@@ -3,7 +3,18 @@ title: Installing Plex on Ubuntu 16.04
 subtitle: The main course...
 date: 2017-07-26
 tags: ["linux", "plex", "ubuntu"]
-
+categories:
+- linux
+keywords:
+- tech
+- learn
+- linux
+- ubuntu
+- server
+- media
+- technology
+- ishan
+- badgainya
 ---
 
 <!--toc-->
