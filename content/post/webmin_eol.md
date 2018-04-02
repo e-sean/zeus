@@ -47,6 +47,7 @@ sudo bash webmin.sh
 EOL = End of Line
 
 If you are a dual boot user you will get this error at some point. While transferring text files between DOS systems and Unix/Linux systems, the end of line syntax also changes. 
+While uploading this script to GitHub from Windows and the trying to run it, I got a bunch of errors. All of these error were related to these line of endings. A quick look at stackoverflow and some other forums solved my problem!
 
 > Text files created on DOS/Windows machines have different line endings than files created on Unix/Linux. DOS uses carriage return and line feed ("\r\n") as a line ending, which Unix uses just line feed ("\n"). You need to be careful about transferring files between Windows machines and Unix machines to make sure the line endings are translated properly.
 
