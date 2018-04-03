@@ -31,7 +31,7 @@ Scripts are real time savers, if made the right way.
 
 **Installation**
 
-A more detailed guide about manually installing webmin can be found here - Post
+A more detailed guide about manually installing webmin can be found here - [Post](https://ishanbadgainya.com/2017/07/webmin-panel-on-ubuntu-16.04/)
 
 To use this script just run the following two commands. 
 Make sure you have **wget** installed. 
