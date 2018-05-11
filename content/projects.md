@@ -1,17 +1,18 @@
 ---
-title: "Undergraduate Thesis"
-categories:
-- category
-- subcategory
-
-keywords:
-- tech
+title: "Academic Projects"
 comments:       false
 showMeta:       false
 showActions:    false
-
-thumbnailImage: //example.com/image.jpg
 ---
 
-You can find my undergraduate thesis here - 
-<a href="https://app.box.com/v/ugthesis" target="_blank">Thesis</a>
+PoleX - A Smart Lighting System
+Designed a soon to be made smart street light for New Raipur Smart City. 
+You can read my undergraduate thesis from here - 
+<a href="http://bit.ly/polexx" target="_blank">Thesis</a>
+
+---
+
+Safety Helmet for Coal Miners
+Lead a team of six people to make a ZigBee based smart helmet which monitors hazardous environment and alerts the miners about upcoming dangers.
+Synopsis for this project can be found here - 
+<a href="http://bit.ly/safeminer" target="_blank">Synopsis</a>
