@@ -21,6 +21,6 @@ You can read my undergraduate thesis from here -
 *Safety Helmet for Coal Miners*
 
 
-Lead a team of six people to make a ZigBee based smart helmet which monitors hazardous environment and alerts the miners about upcoming dangers.
+Lead a team of six people to make a ZigBee based smart helmet which monitors hazardous environment and alert the miners about upcoming dangers.
 Synopsis for this project can be found here - 
 <a href="http://bit.ly/safeminer" target="_blank">Synopsis</a>
