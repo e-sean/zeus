@@ -87,7 +87,7 @@ canonifyurls = true
   identifier = "resume"
   name = "Resume"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-photo-o\"></i>"
-  url = "http://bit.ly/resumeishan"
+  url = "http://bit.ly/resumeishan2"
 
 
 
