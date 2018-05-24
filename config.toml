@@ -173,7 +173,7 @@ canonifyurls = true
   autoThumbnailImage = false
 
   # Your favicon path, default is "/favicon.png"
-   favicon = "/favicon.png"
+   favicon = "https://lh3.googleusercontent.com/OSoR4EMuIlCLjI3Fv3p9akGVKl3VBAjPYaNqOkmOYHdFu0GCuafLkkG2EQ-vK0fQ3i4hEEuko8iP13v-fg-mlqRlblmcFdNdewk35XQjsEmqBwZF7scR7zWNCogN-h4_y0pRgifGyZgBTs0myKb40cy9HdfohzHMj8f-znHMVTJl6D52ZXBNiy1Jncam0_tJRoSrU_udDigHBnjeAanKBckgdQkyJzRQASjbYmos0-Y7T_3ZXrA-1FWzwxg7ZdyJtSU5zYqfPkF1udK2MduJ7Li3ZMoQWpx7ksCo2wIQS669U63lg08JBsXagMXYGvHlJ3iiQMtNKksCLagn_qQjovVwpIp_lzaDyCt55uWavNLjCYkZCt_XoGRKAeKaevAI9VaI39AzpZA81EA-hfy9ajYka3RNlTufQBWN5OSblTJXw2dtaFceys20tJwgihKk5Lmvf0OX4qgWCO2NHcb-8SdZ8BP2JhMxeAnC4zIfHpXcR0Uwr6u8gvtI4avyniU9uIyNXF5JoWve3tY9Cj2jSbbB5Rx1saTGeoFhkqJtWiU_aOc_0_c4CctCWcoTIsh7mSF4BnUTiau6QH1mA2bexEdxN1cmVMY6fa7wDvMQXZXzJ7ZSBthv_luNPWDOKPrn5P45bw9EZq8P1Mco-rZWCH1MODI=s256-no"
 
   # Header configuration
   # The link at the right of the header is customizable
